@@ -51,10 +51,6 @@ Foram criados scripts em Python diretamente no Power BI para projetar:
 
 ---
 
-## 🖼️ Screenshots
-
-*Adicione aqui imagens do seu dashboard (print das páginas no Power BI).*
-
 ---
 
 ## 🚀 Como executar o projeto
