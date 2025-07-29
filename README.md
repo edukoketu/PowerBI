@@ -55,4 +55,4 @@ Foram criados scripts em Python diretamente no Power BI para projetar:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/dash-brasileirao.git
+   git clone https://github.com/edukoketu/PowerBI.git
